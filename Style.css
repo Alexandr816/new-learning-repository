@@ -5,14 +5,32 @@ h1 {
     font-size: 60px;
     text-align: center; 
     font-family: Georgia, 'Times New Roman', Times, serif;
-}
+   }
 h2,
 h3,
 h4
-{
+    {
     text-align: center;
-}
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+header
+      {
+        background-color: chartreuse;
+      }    
 p
-{
-    text-align: center;
-}
+    {
+    text-align: left;
+    }
+footer
+    {
+        background-color:chartreuse; 
+    }
+a
+    {
+        color: black;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }   
+button
+      {
+        background-color: hwb(86 0% 0%);
+      }
