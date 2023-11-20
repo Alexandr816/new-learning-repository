@@ -34,3 +34,11 @@ button
       {
         background-color: hwb(86 0% 0%);
       }
+li
+    {
+      list-style-type: disc;  
+    }
+body
+     {
+        background-color: beige;
+     }        
