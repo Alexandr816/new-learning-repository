@@ -17,13 +17,11 @@ header
       {
         background-color: chartreuse;
       }    
-p
-    {
-    text-align: left;
-    }
+
 footer
     {
-        background-color:chartreuse; 
+        background-color:chartreuse;
+       
     }
 a
     {
@@ -41,4 +39,9 @@ li
 body
      {
         background-color: beige;
-     }        
+        size:0cap;
+     }   
+blockquote
+  {
+    text-align: right;
+  }          
