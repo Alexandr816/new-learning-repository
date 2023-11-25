@@ -1,51 +1,81 @@
-
-html {font-size: 20px;
-    font-family:Georgia, 'Times New Roman', Times, serif 'Times New Roman', Times, serif ;}
-h1 {
-    font-size: 60px;
-    text-align: center; 
-    font-family: Georgia, 'Times New Roman', Times, serif;
-   }
-h2,
-h3,
-h4
-    {
-    text-align: center;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    }
-header
-      {
-        background-color: chartreuse;
-      }    
-
-footer
-    {
-        background-color:chartreuse;
-       
-    }
-a
-    {
-        color: black;
-        font-family:Georgia, 'Times New Roman', Times, serif;
-    }   
-button
-      {
-        background-color: hwb(86 0% 0%);
-      }
-li
-    {
-      list-style-type: disc;  
-    }
-body
-     {
-        background-color: beige;
-       
-     }   
-blockquote
-  {
-    text-align: right;
-  }          
-img
-   {
-     image-orientation:0deg;
-   }  
+.fig {
+  text-align: center;
+}
+header {
+  height: 73px;
+  margin-top:-18px;
+  margin-left: -6px;
+  margin-right: -6px;
+  margin-bottom: -7px;
+  background-color: lawngreen;
+}
+hr {
+  color: rgb(2, 252, 35);
+  margin-left: -6px;
+  margin-right: -6px;
+}
+h1,h2,h3,h4 {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+ .site_name {
+  text-align: center;
+  background-position: center;
+  }
+ body {
+  background-color: ivory;
+ }
+ .citata_konf {
+  text-align: right;
+ }
+ .abr_bag {
+  text-decoration: none;
+  color: red;
+ }
+ p {
+  font-size:medium;
+  font-family:'Times New Roman', Times, serif;
+ }
+ footer {
+  background-color: lawngreen;
+  margin-left: -6px;
+  margin-right: -6px;
+  margin-top: 1300px;
+  margin-bottom: -20px;
+  height: 73px;
+ }
+ #header {
+  height: 73px;
+  margin-top:-10px;
+  margin-left: -6px;
+  margin-right: -6px;
+  margin-bottom: -7px;
+  background-color: lawngreen;
+  text-align: center;
+ }
+ #content {
+  text-align: center;
+  background-color: ivory;
+  height: 1000px;
+ }
+ #footer {
+  background-color: lawngreen;
+  margin-left: -6px;
+  margin-right: -6px;
+  margin-bottom: -15px;
+  margin-top: -8px;
+  text-align: center;
+  height: 73px;
+ }
+ #main {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+ }
+ #main_menu {
+  text-align: left;
+  margin-top: 30px;
+  margin-left: 5;
+ }
