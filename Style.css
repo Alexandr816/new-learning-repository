@@ -39,9 +39,13 @@ li
 body
      {
         background-color: beige;
-        size:0cap;
+       
      }   
 blockquote
   {
     text-align: right;
   }          
+img
+   {
+     image-orientation:0deg;
+   }  
