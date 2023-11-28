@@ -85,7 +85,7 @@ a {
  }
  #main_menu {
   text-align: left;
-  margin-top: -30px;
+  margin-top: -20px;
   margin-left: 5;
  }
  #zen_py {
@@ -94,7 +94,7 @@ a {
  } 
  #title {
   text-align: center;
-  padding-top: 10px;
+  padding-top: 5px;
  }
 button {
   background-color: rgb(15, 163, 2);
@@ -103,4 +103,20 @@ button {
   height: 28px;
   border-radius: 13px;
   font-weight: bold;
+}
+#my_photo {
+  text-align: left;
+  margin-top: -30px;
+  width: 350px;
+  height: 400px;
+}
+#contact {
+  text-align: left;
+  width: 300px;
+  margin-left: 53px;
+}
+#summary {
+  text-align: right;
+  margin-left: 350px;
+  
 }
