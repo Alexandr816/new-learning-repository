@@ -36,6 +36,7 @@ a {
   }
  body {
   background-color: ivory;
+ 
  }
  .citata_konf {
   text-align: right;
@@ -140,4 +141,12 @@ button {
 }
 #f_nav {
   text-align: left;
+}
+#content_expce {
+  text-align: center;
+  margin-right: 333px;
+  height: 1000px;
+  background-color: rgb(197, 255, 202);
+  margin-left: 333px;
+  margin-top: -20px;
 }
