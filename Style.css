@@ -47,6 +47,7 @@ a {
  p {
   font-size:medium;
   font-family:'Times New Roman', Times, serif;
+  text-align: center;
  }
  footer {
   background-color: lawngreen;
@@ -70,13 +71,13 @@ a {
   background-color: ivory;
   height: 1000px;
  }
- #footer {
+ #s_footer {
   background-color: lawngreen;
   margin-left: -6px;
   margin-right: -6px;
   margin-bottom: -15px;
   margin-top: -18px;
- 
+  text-align: center; 
   height: 73px;
  }
  #main {
@@ -85,8 +86,8 @@ a {
  }
  #main_menu {
   text-align: left;
-  margin-top: -20px;
-  margin-left: 5;
+  margin-top: -25px;
+  margin-left: 5px;
  }
  #zen_py {
   margin-top: 33px;
@@ -106,7 +107,7 @@ button {
 }
 #my_photo {
   text-align: left;
-  margin-top: -30px;
+  margin-top: -43px;
   width: 350px;
   height: 400px;
 }
@@ -119,4 +120,24 @@ button {
   text-align: right;
   margin-left: 350px;
   
+}
+#header_summary {
+  height: 73px;
+  margin-top: -18px;
+  margin-left: -6px;
+  margin-right: -6px;
+  margin-bottom: -7px;
+  background-color: lawngreen;
+  text-align: center;
+}
+#main_smenu {
+  text-align: left;
+  margin-top: -20px;
+  margin-left: 5;
+}
+#my_name {
+  padding-top: 30px;
+}
+#f_nav {
+  text-align: left;
 }
